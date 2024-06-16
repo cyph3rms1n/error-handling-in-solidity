@@ -51,7 +51,7 @@ Once the contract is deployed, you can interact with it by calling the anyone fu
 ## Authors
 
 Jyotish Yadav  
-[@novamaster_msin](https://twitter.com/metacraftersio)
+[@novamaster_msin](https://twitter.com/novamaster_msin)
 
 
 ## License
